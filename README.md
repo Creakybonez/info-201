@@ -15,15 +15,15 @@ I found this through the Washington Post's website, the same one I was looking a
 
 This visualization shows what specific districts were won by each political party during the 2018 midterm elections. It is interactive, and allows you to see the specifics of each race, seeing who each district's population voted for. It only encompasses the United States, and does not account for territories such as Puerto Rico. Overall, it displays as a large map of the United States in red and blue colors.
 
-* **Who**: The Washington Post, using data from the Cook Political report. Specific Author not noted by the paper.
+- **Who**: The Washington Post, using data from the Cook Political report. Specific Author not noted by the paper.
 <br>
-* **When**: 2018, during the November Midterms
+- **When**: 2018, during the November Midterms
 <br>
-* **Stakeholders**: All American citizens, as well as any person who has an interest in American politics or general world affairs. Also, readers of the Washington Post, for whom, this data visualization would have been linked to the front page of the paper for more than a month.
+- **Stakeholders**: All American citizens, as well as any person who has an interest in American politics or general world affairs. Also, readers of the Washington Post, for whom, this data visualization would have been linked to the front page of the paper for more than a month.
 <br>
-* **Interests**: Interesting how New England, even in the less populated areas leans so heavily blue, while even major cities in places like Wyoming, remain heavily red. The equal size interactive option is also an interesting way of showing data proportional to what each area is actually weighted as.
+- **Interests**: Interesting how New England, even in the less populated areas leans so heavily blue, while even major cities in places like Wyoming, remain heavily red. The equal size interactive option is also an interesting way of showing data proportional to what each area is actually weighted as.
 <br>
-* **Key Facts**: There is a significant portion of middle America around the great plains and midwest, as well as south that leans heavily, heavily red. Similarly, most rural areas went red, which major cities like Kansas City went blue, despite the rest of the state being red.
+- **Key Facts**: There is a significant portion of middle America around the great plains and midwest, as well as south that leans heavily, heavily red. Similarly, most rural areas went red, which major cities like Kansas City went blue, despite the rest of the state being red.
 
 
 >Data Feminism is the idea that we should work towards an ideal in thinking about data that in informed by experience, and notes that standard practice in terms of thinking about data has long reinforced existing inequalities.
