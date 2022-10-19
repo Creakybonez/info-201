@@ -14,7 +14,7 @@ I selected this visualization because I enjoy maps used for data purposes that a
 I found this through the Washington Post's website, the same one I was looking at in 2018. Remembering 4 years ago, I believe it was one of the more popular sites to check this information quickly.
 
 This visualization shows what specific districts were won by each political party during the 2018 midterm elections. It is interactive, and allows you to see the specifics of each race, seeing who each district's population voted for. It only encompasses the United States, and does not account for territories such as Puerto Rico. Overall, it displays as a large map of the United States in red and blue colors.
-
+<br>
 - **Who**: The Washington Post, using data from the Cook Political report. Specific Author not noted by the paper.
 <br>
 - **When**: 2018, during the November Midterms
