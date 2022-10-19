@@ -6,7 +6,7 @@
 <br>
 
 https://www.washingtonpost.com/election-results/house/)
-<br>
+
 ![alt A map of the 2018 Midterm Outcome](images/a1-visualizations/Screenshot 2022-10-11 033358.png)
 
 I selected this visualization because I enjoy maps used for data purposes that are done well. Additionally, this was the first election for me that I actually wished I was able to vote in. (I was born 2 weeks before the 18 year cutoff) It is also an interactive map, which I always feel adds a certain layer of depth in any kind of graphic that is presented digitally.
